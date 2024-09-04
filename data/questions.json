@@ -1,0 +1,128 @@
+[
+  {
+    "type" : "breast_cancer",
+    "question" : "what is breast cancer?",
+    "content_file" : "breast_cancer/overview.txt"
+  },
+  {
+    "type" : "breast_cancer",
+    "question" : "what is the acceptable limit for alcohol?",
+    "content_file" : "breast_cancer/prevention.txt"
+  },
+  {
+    "type" : "breast_cancer",
+    "question" : "who are more likely to get breast cancer?",
+    "content_file" : "breast_cancer/risk_factors.txt"
+  },
+  {
+    "type" : "breast_cancer",
+    "question" : "what is invasive lobular carcinoma?",
+    "content_file" : "breast_cancer/causes.txt"
+  },
+  {
+    "type" : "breast_cancer",
+    "question" : "what is lumpectomy ?",
+    "content_file" : "breast_cancer/treatment.txt"
+  },
+  {
+    "type" : "colorectal_cancer",
+    "question" : "what is colorectal cancer?",
+    "content_file" : "colorectal_cancer/overview.txt"
+  },
+  {
+    "type" : "colorectal_cancer",
+    "question" : "what are colon cancer Risk reducing methods?",
+    "content_file" : "colorectal_cancer/prevention.txt"
+  },
+  {
+    "type" : "colorectal_cancer",
+    "question" : "what type of pain cause by colorectal cancer?",
+    "content_file" : "colorectal_cancer/symptoms.txt"
+  },
+  {
+    "type" : "colorectal_cancer",
+    "question" : "what is cause of colorectal cancer?",
+    "content_file" : "colorectal_cancer/causes.txt"
+  },
+  {
+    "type" : "colorectal_cancer",
+    "question" : "which people can have greater risk of getting colorectal cancer?",
+    "content_file" : "colorectal_cancer/risk_factors.txt"
+  },
+  {
+    "type" : "lung_cancer",
+    "question" : "what is lung cancer causing agent?",
+    "content_file" : "lung_cancer/causes.txt"
+  },
+  {
+    "type" : "lung_cancer",
+    "question" : "what to do to reduce your risk of lung cancer?",
+    "content_file" : "lung_cancer/prevention.txt"
+  },
+  {
+    "type" : "lung_cancer",
+    "question" : "what is the leading cause of lung cancer?",
+    "content_file" : "lung_cancer/risk_factors.txt"
+  },
+  {
+    "type" : "lung_cancer",
+    "question" : "what are symptoms of lung cancer?",
+    "content_file" : "lung_cancer/symptoms.txt"
+  },
+  {
+    "type" : "lung_cancer",
+    "question" : "what are the tests for lung cancer?",
+    "content_file" : "lung_cancer/treatment.txt"
+  },
+  {
+    "type" : "prostate_cancer",
+    "question" : "what is prostate cancer?",
+    "content_file" : "prostate_cancer/overview.txt"
+  },
+  {
+    "type" : "prostate_cancer",
+    "question" : "How about Doctors know that prostate cancer occured?",
+    "content_file" : "prostate_cancer/causes.txt"
+  },
+  {
+    "type" : "prostate_cancer",
+    "question" : "How can you reduce risk of prostate cancer?",
+    "content_file" : "prostate_cancer/prevention.txt"
+  },
+  {
+    "type" : "prostate_cancer",
+    "question" : "who may have a higher risk of prostate cancer?",
+    "content_file" : "prostate_cancer/risk_factors.txt"
+  },
+  {
+    "type" : "prostate_cancer",
+    "question" : "what are the advanced symptoms of prostate cancer?",
+    "content_file" : "prostate_cancer/symptoms.txt"
+  },
+  {
+    "type" : "skin_cancer",
+    "question" : "what is Skin cancer?",
+    "content_file" : "skin_cancer/overview.txt"
+  },
+  {
+    "type" : "skin_cancer",
+    "question" : "when Skin cancer occurs?",
+    "content_file" : "skin_cancer/causes.txt"
+  },
+  {
+    "type" : "skin_cancer",
+    "question" : "what are the Prevention measures for avoiding Skin cancer occurs?",
+    "content_file" : "skin_cancer/prevention.txt"
+  },
+  {
+    "type" : "skin_cancer",
+    "question" : "if one of your parents or a sibling has had skin cancer, is there any risk of occuring skin cancer?",
+    "content_file" : "skin_cancer/risk_factors.txt"
+  },
+  {
+    "type" : "skin_cancer",
+    "question" : "what are primarily areas getting skin cancer?",
+    "content_file" : "skin_cancer/symptoms.txt"
+  }
+
+]
